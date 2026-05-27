@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Aditya Roy 👋</h1>
 
 <p align="center">
-  <em>Data Enthusiast &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; ML Learner</em>
+  <em>Data Enthusiast &nbsp;•&nbsp; Doing DSA In Java &nbsp;•&nbsp; ML Learner</em>
 </p>
 
 <p align="center">
