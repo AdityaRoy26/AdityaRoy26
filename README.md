@@ -1,4 +1,6 @@
-<img width="480" height="272" alt="fire working GIF" src="https://github.com/user-attachments/assets/621d40ae-ada1-4970-b655-5806d2e8145f" />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/621d40ae-ada1-4970-b655-5806d2e8145f" width="480" alt="coding gif" style="border-radius: 12px" />
+<br/>
 
 <h1 align="center">Hi there, I'm Aditya Roy 👋</h1>
 
