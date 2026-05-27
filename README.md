@@ -1,3 +1,5 @@
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl5MHd4amd0dXM4dzNkOTFhZzhhbWphbGxjZTFrN21jZ3JudHZ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QQQoLTqkm7v3y/giphy.gif
+
 <h1 align="center">Hi there, I'm Aditya Roy 👋</h1>
 
 <p align="center">
