@@ -1,4 +1,4 @@
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl5MHd4amd0dXM4dzNkOTFhZzhhbWphbGxjZTFrN21jZ3JudHZ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QQQoLTqkm7v3y/giphy.gif
+<img width="500" height="272" alt="fire working GIF" src="https://github.com/user-attachments/assets/621d40ae-ada1-4970-b655-5806d2e8145f" />
 
 <h1 align="center">Hi there, I'm Aditya Roy 👋</h1>
 
